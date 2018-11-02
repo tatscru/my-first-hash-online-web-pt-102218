@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def my_hash 
   pod_mates = {
@@ -14,7 +14,6 @@ def shipping_manifest
     "whale bone coresets" => 5, 
     "oil paintings" => 3
   }
-  binding.pry
  the_manifest
 end 
 
