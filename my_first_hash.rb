@@ -1,4 +1,4 @@
-def pod_mates 
+def my_hash 
   mates = {
     "names" => "michael", "zahra", "tatiana"
   }
