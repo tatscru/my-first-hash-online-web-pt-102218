@@ -12,7 +12,6 @@ def shipping_manifest
     "porcelain vases" => 2, 
     "oil paintings" => 3
   }
-end 
   puts shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information: 
