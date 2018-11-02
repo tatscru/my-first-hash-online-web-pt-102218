@@ -1,6 +1,6 @@
 def my_hash 
   pod_mates = {
-    "names" => "michael", "zahra", "tatiana"
+    "names" => "zahra"
   }
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   return 
