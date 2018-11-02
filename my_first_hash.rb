@@ -1,3 +1,5 @@
+require 'pry'
+
 def my_hash 
   pod_mates = {
     "names" => "zahra"
