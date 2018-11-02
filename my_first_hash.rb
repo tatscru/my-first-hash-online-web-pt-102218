@@ -10,8 +10,8 @@ end
 
 def shipping_manifest
   the_manifest = {
-    "whale bone coresets" => 5 
-    "porcelain vases" => 2
+    "porcelain vases" => 2,
+    "whale bone coresets" => 5, 
     "oil paintings" => 3
   }
   binding.pry
