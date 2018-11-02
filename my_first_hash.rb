@@ -12,7 +12,7 @@ def shipping_manifest
     "oil paintings" => 3
     "porcelain vases" => 2, 
   }
- shipping_manifest
+ the_manifest
 end 
 
   # set a variable called `the_manifest`, equal to a hash
